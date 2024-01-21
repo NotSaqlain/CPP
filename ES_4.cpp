@@ -33,5 +33,5 @@ int main() {
         cout << "NUM[" << i+1 << "] --> " <<  array[i] << endl;
     } 
 
-
+    return 0;
 }
