@@ -1,6 +1,6 @@
 # Realizzare i seguenti esercizi in C o in C++:
 
-<b>1)</b><p>Realizzare un programma che: stampa sulla console i primi 100 numeri dispari, usando una funzione "is_pari" che dice se il numero passato come argomento è pari oppure no.</p>
+<p><b>1)</b>Realizzare un programma che: stampa sulla console i primi 100 numeri dispari, usando una funzione "is_pari" che dice se il numero passato come argomento è pari oppure no.</p>
 
 <b>2)</b> <p>Realizzare un programma che dichiara un vettore di 10 interi e, usando apposite funzioni definite nel programma, chiede all'utente di riempirlo con numeri a sua scelta, ne stampa tutti i valori, la somma dei valori, il valore minimo, il valore massimo. </p>
 
